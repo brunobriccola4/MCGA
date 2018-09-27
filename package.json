@@ -1,0 +1,16 @@
+{
+  "name": "full-server",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Curras",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash": "^4.17.11"
+  },
+  "description": ""
+}
